@@ -1,6 +1,6 @@
 {
   "name": "Distance Time Pace Calculator",
-  "short_name": "Running Calc",
+  "short_name": "Running Calculator",
   "description": "Calculate pace, speed, time, distance, splits, and race benchmarks. Free Android running calculator.",
   "start_url": "/",
   "display": "standalone",
